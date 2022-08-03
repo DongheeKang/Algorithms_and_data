@@ -7,43 +7,43 @@ Algorithms and coding study based on the online course
 * handson exmaple for pure mathmatical algorithms
 * Coding Interview exercises and solutions
 
-arithmetic_analysis
-backtracking
-bit_manipulation
-blockchain
-boolean_algebra
-cellular_automata
-ciphers
-compression
-computer_vision
-conversions
-data_structures
-digital_image_processing
-divide_and_conquer
-dynamic_programming
-electronics
-file_transfer
-fractals
-fuzzy_logic
-genetic_algorithm
-geodesy
-graphics
-graphs
-hashes
-knapsack
-linear_algebra
-machine_learning
-maths
-matrix
-networking_flow
-neural_network
-other
-physics
-project_euler
-quantum
-scheduling
-scripts
-searches
-sorts
-strings
-web_programming*
+    * arithmetic_analysis
+    * backtracking
+    * bit_manipulation
+    * blockchain
+    * boolean_algebra
+    * cellular_automata
+    * ciphers
+    * compression
+    * computer_vision
+    * conversions
+    * data_structures
+    * digital_image_processing
+    * divide_and_conquer
+    * dynamic_programming
+    * electronics
+    * file_transfer
+    * fractals
+    * fuzzy_logic
+    * genetic_algorithm
+    * geodesy
+    * graphics
+    * graphs
+    * hashes
+    * knapsack
+    * linear_algebra
+    * machine_learning
+    * maths
+    * matrix
+    * networking_flow
+    * neural_network
+    * other
+    * physics
+    * project_euler
+    * quantum
+    * scheduling
+    * scripts
+    * searches
+    * sorts
+    * strings
+    * web_programming
